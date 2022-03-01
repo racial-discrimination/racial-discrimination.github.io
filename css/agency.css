@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/robotbanner.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -651,68 +651,68 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#trivia {
     background-color: #010101;
     background-image: url(../img/trivia.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
+section#trivia .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+section#trivia .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#trivia .form-group input,
+section#trivia .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#trivia .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#trivia .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
+section#trivia .form-control:focus {
     border-color: #010101;
     box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+section#trivia::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+section#trivia:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+section#trivia::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+section#trivia:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+section#trivia .text-danger {
     color: #e74c3c;
 }
 
