@@ -1,0 +1,57 @@
+.speech-bubble-left {
+	position: relative;
+	background: #bd8100;
+	border-radius: .4em;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.speech-bubble-left:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 33px solid transparent;
+	border-right-color: #bd8100;
+	border-left: 0;
+	border-bottom: 0;
+	margin-top: -16.5px;
+	margin-left: -33px;
+}
+
+
+.speech-bubble-right {
+	position: relative;
+	background: #42bd00;
+	border-radius: .4em;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.speech-bubble-right:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 33px solid transparent;
+	border-left-color: #42bd00;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -16.5px;
+	margin-right: -33px;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.image {
+  flex-basis: 20%
+}
