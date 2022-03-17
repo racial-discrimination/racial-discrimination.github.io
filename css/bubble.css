@@ -17,6 +17,7 @@
   border:5px solid #000;
   color:#333;
   background:#fff;
+  font-size: 12pt;
   /* css3 */
   -webkit-border-radius:10px;
   -moz-border-radius:10px;
@@ -81,6 +82,7 @@
   margin:1em 0 3em;
   color:#333;
   background:#fff;
+  font-size: 12pt;
   /* css3 */
   -webkit-border-radius:10px;
   -moz-border-radius:10px;
