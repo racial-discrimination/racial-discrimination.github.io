@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: black;
 }
 
 .navbar-default .nav li a:hover,
@@ -253,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: lightblue;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -263,9 +263,9 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: black;
     background-attachment: scroll;
-    background-image: url(../img/robotbanner.jpg);
+    background-image: url(../img/robotbanner.jpeg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -291,6 +291,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: black;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
