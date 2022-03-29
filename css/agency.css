@@ -652,15 +652,11 @@ aside.clients img {
 }
 
 section#trivia {
-    background-color: #010101;
     
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#trivia .section-heading {
-    color: black;
-}
 
 section#trivia .form-group {
     margin-bottom: 25px;
